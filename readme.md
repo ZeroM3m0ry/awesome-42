@@ -83,15 +83,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [42FileChecker](https://github.com/jgigault/42FileChecker) - Tiny bash script for testing and checking files according to the rules of the subjects.
 - [malloc_failer](https://github.com/hilmi-yilmaz/malloc_failer) - A script to test malloc protection.
 
-### PDFs
-
-- [42 Subjects](https://github.com/Kwevan/42_Subjects_2020_with_versioning) - Current cursus subjects with versioning.
-- [All School 42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - Subjects both in English and Russian.
-- [School 21 Checklists](https://github.com/caecitasminimus/school21-checklists) - Current cursus corrections, generally up to date.
-- [42 Subjects](https://github.com/Binary-Hackers/42_Subjects) - Subjects for the older 42 cursus.
-- [42 Subjects](https://github.com/fpetras/42-subjects) - Subjects for the older 42 cursus.
-- [42 Corrections](https://github.com/Binary-Hackers/42_Corrections) - Corrections for the older 42 cursus.
-
 ### Licenses
 
 - [42 Unlicense](https://github.com/gcamerli/42unlicense) - A flavored version of the more general [Unlicense](https://en.wikipedia.org/wiki/Unlicense) public license to publish your 42 educational projects and set your code as free.
@@ -138,11 +129,15 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 - [21](https://21-school.ru) - Kazan, Russia (2019)
 - [Hive](https://www.hive.fi) - Helsinki, Finland (2019)
 - [42 Madrid](https://www.42madrid.com) - Madrid, Spain (2019)
+- [42 Lausanne](https://42lausanne.ch) - Lausanne, Switzerland (2019)
 - [42 Roma](https://42roma.it) - Rome, Italy (2020)
 - [42 Lisboa](https://www.42lisboa.com) - Lisboa, Portugal (2020)
 - [42 Heilbronn](https://www.42heilbronn.de) - Heilbronn, Germany (2020)
 - [42 Wolfsburg](https://42wolfsburg.de) - Wolfsburg, Germany (2020)
 - [42 Urdliz](https://www.42urduliz.com) - Urduliz, Spain (2021)
+- [42 Berlin](https://42berlin.de) - Berlin, Germany (2022)
+- [42 Porto](https://www.42porto.com) - Porto, Portugal (2022)
+- [42 Warsaw](https://42warsaw.pl) - Warsaw, Poland (2024)
 
 ### America
 
@@ -213,10 +208,10 @@ From [Wikipedia](https://en.wikipedia.org/wiki/42_(school)):
 
 - [42 Evaluators](https://www.42evaluators.com)
 	- [Python script](https://github.com/rfautier/find_correction)
-- [Find Peers](https://find-peers.herokuapp.com) - Leaderboards for each campus (seems to be offline).
+- [Find Peers](https://find-peers.codam.nl/) - A list of students working on each project per campus.
+	- [source code](https://github.com/codam-coding-college/find-peers)
+- [Find Peers](https://find-peers.herokuapp.com) - Leaderboards for each campus (out of date).
 	- [source code](https://github.com/Kwevan/42-ranking)
-- [Find Peers](https://find-peers.joppekoers.nl/) - A list of students working on each project per campus.
-	- [source code](https://github.com/SirMorfield/find-peers)
 - [XP Calculator](https://42.tbailleu.dev)
 
 ### Awesome lists

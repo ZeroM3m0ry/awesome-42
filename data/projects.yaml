@@ -1,0 +1,295 @@
+projects:
+  - name: "Libft"
+    slug: "42cursus-libft"
+    rank: 0
+  - name: "get_next_line"
+    slug: "42cursus-get_next_line"
+    rank: 1
+  - name: "ft_printf"
+    slug: "42cursus-ft_printf"
+    rank: 1
+  - name: "Born2beroot"
+    slug: "born2beroot"
+    rank: 1
+  - name: "minitalk"
+    slug: "minitalk"
+    rank: 2
+  - name: "pipex"
+    slug: "pipex"
+    rank: 2
+  - name: "so_long"
+    slug: "so_long"
+    rank: 2
+  - name: "FdF"
+    slug: "42cursus-fdf"
+    rank: 2
+  - name: "fract-ol"
+    slug: "42cursus-fract-ol"
+    rank: 2
+  - name: "push_swap"
+    slug: "42cursus-push_swap"
+    rank: 2
+  - name: "Philosophers"
+    slug: "42cursus-philosophers"
+    rank: 3
+  - name: "minishell"
+    slug: "42cursus-minishell"
+    rank: 3
+  - name: "cub3d"
+    slug: "cub3d"
+    rank: 4
+  - name: "miniRT"
+    slug: "minirt"
+    rank: 4
+  - name: "NetPractice"
+    slug: "netpractice"
+    rank: 4
+  - name: "CPP Module 00"
+    slug: "cpp-module-00"
+    rank: 4
+  - name: "CPP Module 01"
+    slug: "cpp-module-01"
+    rank: 4
+  - name: "CPP Module 02"
+    slug: "cpp-module-02"
+    rank: 4
+  - name: "CPP Module 03"
+    slug: "cpp-module-03"
+    rank: 4
+  - name: "CPP Module 04"
+    slug: "cpp-module-04"
+    rank: 4
+  - name: "CPP Module 05"
+    slug: "cpp-module-05"
+    rank: 4
+  - name: "CPP Module 06"
+    slug: "cpp-module-06"
+    rank: 4
+  - name: "CPP Module 07"
+    slug: "cpp-module-07"
+    rank: 4
+  - name: "CPP Module 08"
+    slug: "cpp-module-08"
+    rank: 4
+  - name: "Inception"
+    slug: "inception"
+    rank: 5
+  - name: "ft_containers"
+    slug: "ft_containers"
+    rank: 5
+  - name: "ft_irc"
+    slug: "ft_irc"
+    rank: 5
+  - name: "webserv"
+    slug: "webserv"
+    rank: 5
+  - name: "ft_transcendence"
+    slug: "ft_transcendence"
+    rank: 6
+testers:
+  # multiple projects
+  - name: "Francinette"
+    url: "https://github.com/xicodomingues/francinette"
+    projects:
+      - "42cursus-libft"
+      - "42cursus-get_next_line"
+      - "minitalk"
+      - "pipex"
+      - "42cursus-ft_printf"
+    authors:
+      - name: "xicodomingues"
+        url: "https://github.com/xicodomingues"
+  - name: "Moulitest"
+    url: "https://github.com/yyang42/moulitest"
+    projects:
+      - "42cursus-libft"
+      - "42cursus-get_next_line"
+      - "42cursus-ft_printf"
+    authors:
+      - name: "yyang42"
+        url: "https://github.com/yyang42"
+  # libft
+  - name: "libft-unit-test"
+    url: "https://github.com/alelievr/libft-unit-test"
+    projects:
+      - "42cursus-libft"
+    authors:
+      - name: "alelievr"
+        url: "https://github.com/alelievr"
+  - name: "libftTester"
+    url: "https://github.com/Tripouille/libftTester"
+    projects:
+      - "42cursus-libft"
+    authors:
+      - name: "Tripouille"
+        url: "https://github.com/Tripouille"
+  - name: "libft-war-machine"
+    url: "https://github.com/y3ll0w42/libft-war-machine"
+    projects:
+      - "42cursus-libft"
+    authors:
+      - name: "y3ll0w42"
+        url: "https://github.com/y3ll0w42"
+  # get_next_line
+  - name: "gnlTester"
+    url: "https://github.com/Tripouille/gnlTester"
+    projects:
+      - "42cursus-get_next_line"
+    authors:
+      - name: "Tripouille"
+        url: "https://github.com/Tripouille"
+  # ft_printf
+  - name: "ft_printf_test"
+    url: "https://github.com/cacharle/ft_printf_test"
+    projects:
+      - "42cursus-ft_printf"
+    authors:
+      - name: "cacharle"
+        url: "https://github.com/cacharle"
+  - name: "printfTester"
+    url: "https://github.com/Tripouille/printfTester"
+    projects:
+      - "42cursus-ft_printf"
+    authors:
+      - name: "Tripouille"
+        url: "https://github.com/Tripouille"
+  - name: "printf-unit-test"
+    url: "https://github.com/alelievr/printf-unit-test"
+    projects:
+      - "42cursus-ft_printf"
+    authors:
+      - name: "alelievr"
+        url: "https://github.com/alelievr"
+  # philosophers
+  - name: "philosophers_test"
+    url: "https://github.com/cacharle/philosophers_test"
+    projects:
+      - "42cursus-philosophers"
+    authors:
+      - name: "cacharle"
+        url: "https://github.com/cacharle"
+  # minishell
+  - name: "minishell_test"
+    url: "https://github.com/cacharle/minishell_test"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "cacharle"
+        url: "https://github.com/cacharle"
+  - name: "minishell_tester"
+    url: "https://github.com/thallard/minishell_tester"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "thallard"
+        url: "https://github.com/thallard"
+  - name: "minishell_unit_test"
+    url: "https://github.com/martingarcialopez/minishell_unit_test"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "martingarcialopez"
+        url: "https://github.com/martingarcialopez"
+  - name: "minishell-tester"
+    url: "https://github.com/solaldunckel/minishell-tester"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "solaldunckel"
+        url: "https://github.com/solaldunckel"
+  - name: "msh_tester"
+    url: "https://github.com/alchrist42/msh_tester"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "alchrist42"
+        url: "https://github.com/alchrist42"
+  - name: "mini_tester"
+    url: "https://github.com/potatokuka/mini_tester"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "potatokuka"
+        url: "https://github.com/potatokuka"
+  - name: "minishell-helper"
+    url: "https://github.com/fkymy/minishell-helper"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "fkymy"
+        url: "https://github.com/fkymy"
+  # cub3d
+  - name: "cub3D_map_tester"
+    url: "https://github.com/humblEgo/cub3D_map_tester"
+    projects:
+      - "cub3d"
+    authors:
+      - name: "humblEgo"
+        url: "https://github.com/humblEgo"
+  - name: "cub3D_leaks_maps_tester"
+    url: "https://github.com/mlaraki/cub3D_leaks_maps_tester"
+    projects:
+      - "cub3d"
+    authors:
+      - name: "mlaraki"
+        url: "https://github.com/mlaraki"
+  # ft_containers
+  - name: "ft_containers_test"
+    url: "https://github.com/cacharle/ft_containers_test"
+    projects:
+      - "ft_containers"
+    authors:
+      - name: "cacharle"
+        url: "https://github.com/cacharle"
+  - name: "containers-benchmark"
+    url: "https://github.com/nesvoboda/containers-benchmark"
+    projects:
+      - "ft_containers"
+    authors:
+      - name: "nesvoboda"
+        url: "https://github.com/nesvoboda"
+resources:
+  # libft
+  - name: "Google"
+    url: "https://google.com/"
+    projects:
+      - "42cursus-libft"
+  # minishell
+  - name: "minishell_tests"
+    url: "https://github.com/t0mm4rx/minishell_tests"
+    notes: "A set of tests for minishell"
+    projects:
+      - "42cursus-minishell"
+    authors:
+      - name: "t0mm4rx"
+        url: "https://github.com/t0mm4rx"
+  # cub3d
+  - name: "Some tips and tricks to break a cub3D during a review"
+    url: "https://gist.github.com/maxdesalle/5e9d1dec0799e6f57f66ee4e35243b74"
+    projects:
+      - "cub3d"
+    authors:
+      - name: "maxdesalle"
+        url: "https://gist.github.com/maxdesalle"
+  - name: "Cub3D random maze generator"
+    url: "https://github.com/0auBSQ/Cub3D-random-maze-generator"
+    projects:
+      - "cub3d"
+    authors:
+      - name: "0auBSQ"
+        url: "https://github.com/0auBSQ"
+  - name: "[FR] Notions mathématiques du projet Cub3D"
+    url: "https://docs.google.com/document/d/1tdNYHg3Mfqf8dr8W6Ajs3seUugwtmaQizZ7BzimkXog/view"
+    projects:
+      - "cub3d"
+    authors:
+      - name: "qpupier"
+        url: "https://github.com/qpupier"
+  # containers
+  - name: "Containers Battleground"
+    url: "https://containers-battleground.netlify.app/"
+    projects:
+      - "ft_containers"
+    authors:
+      - name: "nesvoboda"
+        url: "https://github.com/nesvoboda"
